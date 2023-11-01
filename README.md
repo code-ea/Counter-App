@@ -6,11 +6,11 @@
 
 # Counter App
 
-This is a javascript based program which displays the count.
+This is a javascript-based program that displays the count.
 
-HTML and Javascript are the technogies used in this project.
+HTML and Javascript are the technologies used in this project.
 
-JavaScript is a high-level, versatile, and widely used programming language primarily known for its role in web development. Overall, JavaScript plays a pivotal role in modern web development, enabling developers to create dynamic and interactive web applications. Its versatility, widespread adoption, and a vast ecosystem of tools and libraries make it a fundamental language for web developers.
+JavaScript is a high-level, versatile, and widely used programming language primarily known for its role in web development. Overall, JavaScript plays a pivotal role in modern web development, enabling developers to create dynamic and interactive web applications. Its versatility, widespread adoption, and vast ecosystem of tools and libraries make it a fundamental language for web developers.
 
 ## Demo
 
